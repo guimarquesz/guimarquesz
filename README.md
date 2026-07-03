@@ -4,7 +4,7 @@ Desenvolvimento de websites, aplicações internas e soluções técnicas para n
 
 ## Sobre mim
 
-Sou o Guilherme Marques, estudante de Engenharia Eletrotécnica e de Computadores, com experiência no desenvolvimento de aplicações web, sistemas de visão computacional, automação, eletrónica e soluções internas para ambiente industrial.
+Sou o Guilherme Marques, estudante de Eletrotécnica e de Computadores, com experiência no desenvolvimento de aplicações web, sistemas de visão computacional, automação, eletrónica e soluções internas para ambiente industrial.
 
 ## O que desenvolvo
 
